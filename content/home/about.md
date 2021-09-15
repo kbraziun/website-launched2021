@@ -8,5 +8,5 @@ author: admin
 widget_id: research-mission
 design:
   background:
-    image: braziunaskristin.jpg
+    ? image
 ---
