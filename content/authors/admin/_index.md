@@ -1,6 +1,6 @@
 ---
 role: PhD Student
-avatar_filename: braziunaskristin.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Landscape ecology
